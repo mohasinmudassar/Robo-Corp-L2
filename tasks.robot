@@ -6,6 +6,7 @@ Documentation       Orders robots from RobotSpareBin Industries Inc.
 ...                 Creates ZIP archive of the receipts and the images.
 
 Library             RPA.Browser.Selenium
+Library    RPA.
 Library             RPA.HTTP
 Library             RPA.Tables
 Library             RPA.PDF
